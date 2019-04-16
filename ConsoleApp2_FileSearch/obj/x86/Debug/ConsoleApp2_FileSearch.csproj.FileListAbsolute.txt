@@ -1,0 +1,7 @@
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\bin\x86\Debug\ConsoleApp2_FileSearch.exe.config
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\bin\x86\Debug\ConsoleApp2_FileSearch.exe
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\bin\x86\Debug\ConsoleApp2_FileSearch.pdb
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\obj\x86\Debug\ConsoleApp2_FileSearch.csprojAssemblyReference.cache
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\obj\x86\Debug\ConsoleApp2_FileSearch.csproj.CoreCompileInputs.cache
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\obj\x86\Debug\ConsoleApp2_FileSearch.exe
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\obj\x86\Debug\ConsoleApp2_FileSearch.pdb

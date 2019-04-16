@@ -1,0 +1,10 @@
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\bin\x86\Release\ConsoleApp2_FileSearch.exe.config
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\bin\x86\Release\ConsoleApp2_FileSearch.exe.manifest
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\bin\x86\Release\ConsoleApp2_FileSearch.application
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\bin\x86\Release\ConsoleApp2_FileSearch.exe
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\bin\x86\Release\ConsoleApp2_FileSearch.pdb
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\obj\x86\Release\ConsoleApp2_FileSearch.csproj.CoreCompileInputs.cache
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\obj\x86\Release\ConsoleApp2_FileSearch.exe.manifest
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\obj\x86\Release\ConsoleApp2_FileSearch.application
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\obj\x86\Release\ConsoleApp2_FileSearch.exe
+C:\Users\youko\Documents\works\csharp\ConsoleApp2_FileSearch\ConsoleApp2_FileSearch\obj\x86\Release\ConsoleApp2_FileSearch.pdb
